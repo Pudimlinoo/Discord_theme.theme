@@ -6,7 +6,7 @@ Tema minimalista preto e branco para Discord, focado em estética limpa, transpa
 
 ## 🖼️ Preview
 
-![preview]([https://i.pinimg.com/736x/ef/93/86/ef938648255af2e11a10466cc60d8197.jpg](https://cdn.discordapp.com/attachments/1473580123360858195/1494922286296334386/image.png?ex=69e45e5f&is=69e30cdf&hm=a59e01a53601747c28c73fad5656b7d74999d9139f2dec77722ca8d9b07eda18&))
+![preview](https://i.ibb.co/9kNDCpnD/seu-arquivo.png)
 
 ---
 
