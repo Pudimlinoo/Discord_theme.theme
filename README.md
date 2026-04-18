@@ -80,7 +80,7 @@ AppData/Roaming/BetterDiscord/themes
 ## 👤 Autor
 
 PudimLinoo
-
+IG: _kawxw
 ---
 
 ## 🔗 Source
