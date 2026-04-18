@@ -1,49 +1,63 @@
 # 🌑 Kalledy Theme
 
-Tema minimalista preto e branco para Discord, com foco em estética limpa, transparência e detalhes sutis.
+Tema minimalista preto e branco para Discord, focado em estética limpa, transparência e detalhes sutis.
 
-✨ Features
-🎨 Design minimalista (preto & branco)
-🌫️ Efeito de blur e transparência
-🖼️ Background customizável
-📂 Sidebar com imagem integrada
-🧩 Correção de sobreposição (overlay fix)
-🔤 Correção de CAPS LOCK em textos (usernames, inputs, etc.)
-🖱️ Animações suaves em hover
-📥 Instalação
-Instale o Vencord ou BetterDiscord
-Baixe o arquivo .theme.css
-Coloque na pasta de temas:
-BetterDiscord:
-AppData/Roaming/BetterDiscord/themes
-Ative o tema nas configurações
-⚙️ Customização
+---
 
-Você pode alterar facilmente:
+## 🖼️ Preview
 
-🖼️ Background principal
+![preview](https://i.pinimg.com/736x/ef/93/86/ef938648255af2e11a10466cc60d8197.jpg)
+
+---
+
+## ✨ Features
+
+- 🎨 Design minimalista (preto & branco)  
+- 🌫️ Efeito de blur + transparência  
+- 🖼️ Background totalmente customizável  
+- 📂 Sidebar com imagem integrada  
+- 🧩 Correção de overlay (bug tela preta)  
+- 🔤 Correção de CAPS LOCK em textos  
+- 🖱️ Animações suaves (hover)
+
+---
+
+## 📥 Instalação
+
+1. Instale **Vencord** ou **BetterDiscord**  
+2. Baixe o arquivo `.theme.css`  
+3. Coloque na pasta de temas:  
+
+BetterDiscord:  
+AppData/Roaming/BetterDiscord/themes  
+
+4. Ative o tema nas configurações  
+
+---
+
+## ⚙️ Customização
+
+### 🖼️ Background principal
+```css
 --background-image-url: url('SUA_IMAGEM_AQUI');
 💬 Fundo da DM
 --dms-background-image-url: url('SUA_IMAGEM_AQUI');
 🌫️ Intensidade do blur
 --blur-amount: 24px;
 🛠️ Correções incluídas
-✅ Bug de tela preta corrigido (z-index fix)
+✅ Bug de tela preta corrigido
 ✅ Overlay funcionando corretamente
 ✅ Scrollbar customizada
-✅ Inputs e nomes NÃO ficam em CAPS
-✅ Melhor organização de camadas (UI)
+✅ Inputs e usernames sem CAPS LOCK
+✅ Melhor organização de camadas (z-index fix)
 ⚠️ Observações
-Algumas classes do Discord mudam com updates → pode quebrar partes do tema
-Recomendado usar com resolução padrão (evita bugs visuais)
+O Discord muda classes com frequência → partes do tema podem quebrar
+Recomendado usar resolução padrão
+Pode haver conflitos com outros temas/plugins
 👤 Autor
+
 PudimLinoo
+
 🔗 Source
 
-GitHub:
 https://github.com/PudimLinoo/kalledy-theme
-
-📜 Licença
-
-Uso livre para fins pessoais.
-Edições são permitidas — créditos são apreciados 👍
